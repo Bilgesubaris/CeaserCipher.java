@@ -4,8 +4,8 @@ Bu proje, Java ile geliştirilmiş basit bir Caesar Şifreleme algoritmasını i
 
 **Özellikler**
 
--Kullanıcıdan metin ve anahtar değeri alarak şifreleme yapar.
+- Kullanıcıdan metin ve anahtar değeri alarak şifreleme yapar.
 
-Şifrelenmiş metni orijinal haline getirebilir.
+- Şifrelenmiş metni orijinal haline getirebilir.
 
-Harf olmayan karakterleri değiştirmez.
+- Harf olmayan karakterleri değiştirmez. 
